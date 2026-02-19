@@ -2,8 +2,14 @@
 This a Power BI Report for the board game Pokemo Master Trainer: HEX Edition which is a board game with 912 pokemon.
 Data was gathered through the use of the Tabletop Simulator video game, manually shuffling through all Pokemon card and cityscapes, and recording the data in an Excel file.
 
+![Board Game](screenshots/boardgame.png)
+
 ---
 
+## Data Preview
+![Data Preview](screenshots/data_preview.png)
+
+---
 ## Data Analysis
 
 ### Pokemon Card Color Distribution By City
